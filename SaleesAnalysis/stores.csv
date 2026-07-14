@@ -1,0 +1,6 @@
+store_id,store_name,region,city,store_type
+ST01,Downtown Flagship,Central,Dubai,Flagship
+ST02,Mall Branch North,North,Sharjah,Mall
+ST03,Mall Branch South,South,Abu Dhabi,Mall
+ST04,Suburban Outlet,West,Ajman,Outlet
+ST05,Online Fulfillment,Online,N/A,Online
